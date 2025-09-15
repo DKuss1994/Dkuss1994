@@ -16,11 +16,11 @@
 
 ## 🚀 Developer Journey
 
-<table >
+<table>
   <tr>
-    <td><img src="./assets/da_logo.png" width="40" alt="Coding Icon" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Coding Icon" /></td>
     <td style="padding-left: 12px;">
-      <span style="color: white; font-weight: bold;">Coding Student</span><br />
+      <span style="color: white; font-weight: bold;">Python Student</span><br />
       <span style="color: gray; font-size: 12px;">Start: Juli 2025</span>
     </td>
   </tr>
@@ -32,7 +32,7 @@
 
 <h3>Backend</h3>
 <p align="left">
-  <img src="./assets/skill_icons/Python.png" height="32" alt="Python" style="margin-right:8px;" />
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Coding Icon" /></td>
 </p>
 
 <h3>Dev-Tools</h3>
@@ -51,14 +51,8 @@
 
 ---
 
-## 🐍 Snake!
-
-<img src="https://raw.githubusercontent.com/DennisKuss/DennisKuss/output/snake.svg" alt="Snake animation" style="margin-bottom: 48px;" />
-
----
-
 ## 📬 Contact
 
-<a href="https://www.linkedin.com/in/dennis-kuß" target="_blank" title="Mein LinkedIn-Profil" style="text-decoration: none">
+<a href="www.linkedin.com/in/dennis-kuß-06a040320" target="_blank" title="Mein LinkedIn-Profil" style="text-decoration: none">
   <img src="./assets/icons/linkedin.png" width="32" height="32" alt="LinkedIn" />
 </a>
