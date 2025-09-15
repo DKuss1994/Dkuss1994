@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Dennis%20Kuß" width = "600"  alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Dennis%20Kuß" width = "100%" height ="100%"  alt="header" />
 </p>
 
 <p align="center">
