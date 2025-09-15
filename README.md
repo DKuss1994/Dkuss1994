@@ -52,9 +52,13 @@
 ---
 ## 📬 Contact
 <a href="https://www.linkedin.com/in/dennis-ku%C3%9F-06a040320/" target="_blank" title="Mein LinkedIn-Profil" style="text-decoration: none">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32"  alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;
   <a href = "https://www.xing.com/profile/Dennis_Kuss2/web_profiles" target = "_blank" title = " Mein Xing-Profil"style="text-decoration: none">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/xing.svg" width="32" height="32" alt="Xing" />
+  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/kuss_dennis/" target="_blank" title="Mein Instagram-Profil">
   <img src="https://api.iconify.design/skill-icons:instagram.svg" width="32" height="32" alt="Instagram" />
 </a>
