@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Dennis%20Kuß" width = "100%"  alt="header" />
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@
 
 <h3>Dev-Tools</h3>
 <p align="left">
-  <img src="./assets/skill_icons/git.png" height="32" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" height="32" alt="Git" />
 </p>
 
 ---
