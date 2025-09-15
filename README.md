@@ -55,5 +55,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn" />
   <a href = "https://www.xing.com/profile/Dennis_Kuss2/web_profiles" target = "_blank" title = " Mein Xing-Profil"style="text-decoration: none">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/xing.svg" width="32" height="32" alt="Xing" />
-</a>
+  <a href="https://www.instagram.com/kuss_dennis/" target="_blank" title="Mein Instagram-Profil">
+  <img src="https://api.iconify.design/skill-icons:instagram.svg" width="32" height="32" alt="Instagram" />
 </a>
