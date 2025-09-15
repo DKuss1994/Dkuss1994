@@ -50,9 +50,7 @@
 </div>
 
 ---
-
 ## 📬 Contact
-
 <a href="https://www.linkedin.com/in/dennis-ku%C3%9F-06a040320/" target="_blank" title="Mein LinkedIn-Profil" style="text-decoration: none">
-  <img src="./assets/icons/linkedin.png" width="32" height="32" alt="LinkedIn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn" />
 </a>
