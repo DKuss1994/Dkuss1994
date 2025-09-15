@@ -21,7 +21,6 @@
     <td><img src="./assets/da_logo.png" width="40" alt="Coding Icon" /></td>
     <td style="padding-left: 12px;">
       <span style="color: white; font-weight: bold;">Coding Student</span><br />
-      <span style="color: white;">Developer Akademie</span><br />
       <span style="color: gray; font-size: 12px;">Start: Juli 2025</span>
     </td>
   </tr>
