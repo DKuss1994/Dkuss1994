@@ -32,8 +32,6 @@
 ## 🚧 Aktuelle Projekte
 
 [![GitHub Repo](https://img.shields.io/badge/Projekt-Telefonbuch-blue?logo=github)](https://github.com/Dkuss1994/Telefonbuch)
-
-- 🐍 [Mein erstes Python-Projekt: Telefonbuch](https://github.com/DKuss1994/Telefonbuch)
 ---
 
 ## 🛠 Aktuelle Skills
