@@ -31,7 +31,7 @@
 
 ## 🚧 Aktuelle Projekte
 
-- 🐍 [Mein erstes Python-Projekt: Telefonbuch](https://github.com/Dkuss1994/Telefonbuch) 
+- 🐍 [Mein erstes Python-Projekt: Telefonbuch](https://github.com/DKuss1994/Telefonbuch)
 ---
 
 ## 🛠 Aktuelle Skills
