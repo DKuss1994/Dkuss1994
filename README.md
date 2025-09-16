@@ -31,9 +31,11 @@
 
 ## 🚧 Aktuelle Projekte
 
-[![GitHub Repo](https://img.shields.io/badge/Projekt-Sreen2Mail-blue?logo=github)](https://github.com/DKuss1994/-Fehlalarm-Verarbeitungssystem-fuer-Videoalarme)
+[![GitHub Repo](https://img.shields.io/badge/Projekt-Sreen2Mail-yellow?logo=github)](https://github.com/DKuss1994/-Fehlalarm-Verarbeitungssystem-fuer-Videoalarme)
 
-[![GitHub Repo](https://img.shields.io/badge/Projekt-Telefonbuch-blue?logo=github)](https://github.com/Dkuss1994/Telefonbuch)
+[![GitHub Repo](https://img.shields.io/badge/Projekt-Tamagotchi-yellow?logo=github)](https://github.com/DKuss1994/Tamagotchi)
+
+[![GitHub Repo](https://img.shields.io/badge/Projekt-Telefonbuch-green?logo=github)](https://github.com/Dkuss1994/Telefonbuch)
 ---
 
 ## 🛠 Aktuelle Skills
