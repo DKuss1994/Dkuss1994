@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  👋 Hi, ich bin <b>Dennis Kuß</b>.<br />
+  Hi, ich bin <b>Dennis Kuß</b>.<br />
   Am 15.07.2025 habe ich mit dem Coden angefangen – aktuell mit dem Fokus auf <b>Python</b>.  
   <br /><br />
   Beruflich komme ich aus der Sicherheits- und Rettungsbranche und arbeite derzeit in einer Notruf- und Serviceleitstelle.  
