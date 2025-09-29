@@ -31,7 +31,7 @@
 
 ## 🚧 Aktuelle Projekte
 
-[![GitHub Repo](https://img.shields.io/badge/Projekt-Code_Wars-yellow?logo=github)]([https://github.com/DKuss1994/-Fehlalarm-Verarbeitungssystem-fuer-Videoalarme](https://github.com/DKuss1994/Code_wars.git))
+[![GitHub Repo](https://img.shields.io/badge/Projekt-Code_Wars-yellow?logo=github)](https://github.com/DKuss1994/Code_wars.git)
 
 [![GitHub Repo](https://img.shields.io/badge/Projekt-Sreen2Mail-yellow?logo=github)](https://github.com/DKuss1994/-Fehlalarm-Verarbeitungssystem-fuer-Videoalarme)
 
