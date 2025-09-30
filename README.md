@@ -9,12 +9,12 @@
   Beruflich komme ich aus der Sicherheits- und Rettungsbranche und arbeite derzeit in einer Notruf- und Serviceleitstelle.  
   Durch meine bisherigen Erfahrungen bringe ich Belastbarkeit, Struktur und Lösungsorientierung mit – Eigenschaften, die ich nun in die IT-Welt übertrage.  
   <br /><br />
-  💡 Mein Antrieb? Probleme hinterfragen, verstehen und verbessern – ob im echten Leben oder im Code.
+   Mein Antrieb? Probleme hinterfragen, verstehen und verbessern – ob im echten Leben oder im Code.
 </p>
 
 ---
 
-## 🚀 Developer Journey
+##  Developer Journey
 
 <table>
   <tr>
@@ -26,10 +26,15 @@
   </tr>
 </table>
 
-
 ---
 
-## 🚧 Aktuelle Projekte
+##  Currently Learning
+- Tägliches lösen von Challanges [Codewars](https://www.codewars.com/users/DKuss1994)  
+  ![Codewars](https://www.codewars.com/users/DKuss1994/badges/small)  
+  
+---
+
+##  Aktuelle Projekte
 
 [![GitHub Repo](https://img.shields.io/badge/Projekt-Code_Wars-yellow?logo=github)](https://github.com/DKuss1994/Code_wars.git)
 
