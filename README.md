@@ -36,7 +36,7 @@
 
 ##  Aktuelle Projekte
 
-[![GitHub Repo](https://img.shields.io/badge/Projekt-Code_Wars-yellow?logo=github)](https://github.com/DKuss1994/CodeWarsJava)
+[![GitHub Repo](https://img.shields.io/badge/Projekt-Code_Wars_Java-yellow?logo=github)](https://github.com/DKuss1994/CodeWarsJava)
 
 [![GitHub Repo](https://img.shields.io/badge/Projekt-Code_Wars-yellow?logo=github)](https://github.com/DKuss1994/Code_wars.git)
 
@@ -49,6 +49,11 @@
 <h3>Backend</h3>
 <p align="left">
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Coding Icon" /></td>
+</p>
+
+<p align="left">
+    <td><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png"
+width="40" alt="Coding Icon" /></td>
 </p>
 
 <h3>Dev-Tools</h3>
