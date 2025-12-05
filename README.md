@@ -48,12 +48,13 @@
 ---
 
 ##  Aktuelle Projekte
+[![GitHub Repo](https://img.shields.io/badge/Projekt-GameOfLive-green?logo=github)](https://github.com/DKuss1994/GameOfLive)
 
 [![GitHub Repo](https://img.shields.io/badge/Projekt-Code_Wars_Java-yellow?logo=github)](https://github.com/DKuss1994/CodeWarsJava)
 
 [![GitHub Repo](https://img.shields.io/badge/Projekt-Code_Wars-yellow?logo=github)](https://github.com/DKuss1994/Code_wars.git)
 
-[![GitHub Repo](https://img.shields.io/badge/Projekt-Sreen2Mail-yellow?logo=github)](https://github.com/DKuss1994/-Fehlalarm-Verarbeitungssystem-fuer-Videoalarme)
+
 
 ---
 
@@ -70,9 +71,18 @@ width="40" alt="Coding Icon" /></td>
 </p>
 
 <h3>Dev-Tools</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" height="32" alt="Git" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" height="32" alt="Git" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/intellijidea.svg" width="40" />
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
