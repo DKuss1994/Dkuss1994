@@ -77,22 +77,15 @@ width="40" alt="Coding Icon" /></td>
       <img <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" height="32" alt="Git" />
     </td>
     <td>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="40" />
+    </td>
+    <td>
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/intellijidea.svg" width="40" />
     </td>
+    
   </tr>
 </table>
 
-
-
----
-
-## 📊 GitHub Stats
-
-<div align="center" style="margin-bottom: 48px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dkuss1994&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dkuss1994&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
 
 
 ---
