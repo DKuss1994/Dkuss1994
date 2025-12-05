@@ -18,13 +18,26 @@
 
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Coding Icon" /></td>
-    <td style="padding-left: 12px;">
-      <span style="color: white; font-weight: bold;">Python Student</span><br />
-      <span style="color: gray; font-size: 12px;">Start: Juli 2025</span>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40">
+    </td>
+    <td>
+      <strong>Python Student</strong><br>
+      <span style="font-size:12px; color:gray;">Start: Juli 2025</span>
+    </td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" width="40">
+    </td>
+    <td>
+      <strong>Java Student</strong><br>
+      <span style="font-size:12px; color:gray;">Start: Oktober 2025</span>
     </td>
   </tr>
 </table>
+
+
+
 
 ---
 
