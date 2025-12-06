@@ -4,7 +4,7 @@
 
 <p align="center">
   Hi, ich bin <b>Dennis Kuß</b>.<br />
-  Am 15.07.2025 habe ich mit dem Coden angefangen – aktuell mit dem Fokus auf <b>Python</b>.  
+  Am 15.07.2025 habe ich mit dem Coden angefangen – aktuell mit dem Fokus auf <b>Backend-Entwicklung</b>.  
   <br /><br />
   Beruflich komme ich aus der Sicherheits- und Rettungsbranche und arbeite derzeit in einer Notruf- und Serviceleitstelle.  
   Durch meine bisherigen Erfahrungen bringe ich Belastbarkeit, Struktur und Lösungsorientierung mit – Eigenschaften, die ich nun in die IT-Welt übertrage.  
