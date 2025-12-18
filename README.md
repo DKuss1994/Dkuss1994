@@ -87,10 +87,12 @@ width="40" alt="Coding Icon" /></td>
 </table>
 
 
-# GitHub Stats
-![Dennis GitHub Stats](https://github-readme-stats-codingwithjiro.vercel.app/api?username=DKuss1994&show_icons=true&show_prs=true&title_color=FF0033&text_color=ffffff&icon_color=00E0FF&bg_color=0D0D0D)
+### GitHub Statistik
 
-![Dennis Top Languages](https://github-readme-stats-codingwithjiro.vercel.app/api/top-langs/?username=DKuss1994&layout=compact&langs_count=6&title_color=FF0033&text_color=FFFFFF&bg_color=0D0D0D)
+![GitHub Stats](https://github-readme-stats-codingwithjiro.vercel.app/api?username=DKuss1994&show_icons=true&show_prs=true&hide_rank=true&title_color=2F80ED&text_color=E0E0E0&icon_color=2F80ED&bg_color=0B0F19)
+
+![Top Sprachen](https://github-readme-stats-codingwithjiro.vercel.app/api/top-langs/?username=DKuss1994&layout=compact&langs_count=6&title_color=2F80ED&text_color=E0E0E0&bg_color=0B0F19)
+
 
 
 
