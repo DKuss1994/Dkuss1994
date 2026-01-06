@@ -61,28 +61,36 @@
 ## 🛠 Aktuelle Skills
 
 <h3>Backend</h3>
-<p align="left">
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Coding Icon" /></td>
-</p>
-
-<p align="left">
-    <td><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png"
-width="40" alt="Coding Icon" /></td>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height ="60" alt="Coding Icon" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png"
+width="60" height ="60" alt="Coding Icon" />
+    </td>
+    <td>
+      <img src ="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg" width ="60" />
+    </td>
+  </tr>
+</table>
 
 <h3>Dev-Tools</h3>
 <table>
   <tr>
     <td>
-      <img <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" height="32" alt="Git" />
+      <img <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
     </td>
     <td>
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="50" />
     </td>
     <td>
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/intellijidea.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/intellijidea.svg" width="50" />
     </td>
-    
+    <td>
+      <img src ="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" width ="50"/>
+    </td>
   </tr>
 </table>
 
